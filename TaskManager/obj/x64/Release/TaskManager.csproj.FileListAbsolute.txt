@@ -1,0 +1,18 @@
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\bin\x64\Release\TaskManager.exe.config
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\bin\x64\Release\TaskManager.exe
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\bin\x64\Release\TaskManager.pdb
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\obj\x64\Release\TaskManager.Form1.resources
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\obj\x64\Release\TaskManager.Properties.Resources.resources
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\obj\x64\Release\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\obj\x64\Release\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\obj\x64\Release\TaskManager.exe
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\obj\x64\Release\TaskManager.pdb
+C:\Users\XXX\Documents\Visual Studio 2017\Projects\TaskManager\TaskManager\bin\x64\Release\TaskManager.exe.config
+C:\Users\XXX\Documents\Visual Studio 2017\Projects\TaskManager\TaskManager\bin\x64\Release\TaskManager.exe
+C:\Users\XXX\Documents\Visual Studio 2017\Projects\TaskManager\TaskManager\bin\x64\Release\TaskManager.pdb
+C:\Users\XXX\Documents\Visual Studio 2017\Projects\TaskManager\TaskManager\obj\x64\Release\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\XXX\Documents\Visual Studio 2017\Projects\TaskManager\TaskManager\obj\x64\Release\TaskManager.Form1.resources
+C:\Users\XXX\Documents\Visual Studio 2017\Projects\TaskManager\TaskManager\obj\x64\Release\TaskManager.Properties.Resources.resources
+C:\Users\XXX\Documents\Visual Studio 2017\Projects\TaskManager\TaskManager\obj\x64\Release\TaskManager.csproj.GenerateResource.Cache
+C:\Users\XXX\Documents\Visual Studio 2017\Projects\TaskManager\TaskManager\obj\x64\Release\TaskManager.exe
+C:\Users\XXX\Documents\Visual Studio 2017\Projects\TaskManager\TaskManager\obj\x64\Release\TaskManager.pdb

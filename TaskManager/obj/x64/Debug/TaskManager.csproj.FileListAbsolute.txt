@@ -1,0 +1,19 @@
+c:\users\xxx\documents\visual studio 2017\Projects\TaskManager\TaskManager\bin\x64\Debug\TaskManager.exe.config
+c:\users\xxx\documents\visual studio 2017\Projects\TaskManager\TaskManager\bin\x64\Debug\TaskManager.exe
+c:\users\xxx\documents\visual studio 2017\Projects\TaskManager\TaskManager\bin\x64\Debug\TaskManager.pdb
+c:\users\xxx\documents\visual studio 2017\Projects\TaskManager\TaskManager\obj\x64\Debug\TaskManager.Form1.resources
+c:\users\xxx\documents\visual studio 2017\Projects\TaskManager\TaskManager\obj\x64\Debug\TaskManager.Properties.Resources.resources
+c:\users\xxx\documents\visual studio 2017\Projects\TaskManager\TaskManager\obj\x64\Debug\TaskManager.csproj.GenerateResource.Cache
+c:\users\xxx\documents\visual studio 2017\Projects\TaskManager\TaskManager\obj\x64\Debug\TaskManager.exe
+c:\users\xxx\documents\visual studio 2017\Projects\TaskManager\TaskManager\obj\x64\Debug\TaskManager.pdb
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\bin\x64\Debug\TaskManager.exe.config
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\bin\x64\Debug\TaskManager.exe
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\bin\x64\Debug\TaskManager.pdb
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.Form1.resources
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.Properties.Resources.resources
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.exe
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.pdb
+C:\Users\Gitik\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\XXX\Documents\Visual Studio 2017\Projects\TaskManager\TaskManager\obj\x64\Debug\TaskManager.csprojResolveAssemblyReference.cache
